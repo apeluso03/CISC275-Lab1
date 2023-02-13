@@ -48,10 +48,10 @@ Hey yall here is my edit
 
 Edit for Lab Section 021L:
 -
-Hey guys, my name is Sydney Segear and I'm the TA for section 021L! I'm looking forward to meeting you all today and working with you this semester!
+Hello this is my edit
 
 Edit for Lab Section 030L:
--
+- This edit is for my lab!
 
 Edit for Lab Section 031L:
 -
